@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container_fluid {
+    width: 80%;
+    margin: auto;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+}
